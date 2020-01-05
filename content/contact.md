@@ -1,6 +1,6 @@
 ---
 date: "2014-04-09"
-description: How to contact me
+description: Please Send me an email with feedback
 sidemenu: "true"
 title: Contact
 ---
